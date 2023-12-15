@@ -1,8 +1,16 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
 .qoutes{
     background-image: url(bg-qoutes4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    width: 100%;
+    height: 100vh;
+    margin: 0 !important;
 }
 .bottn{
    background-color: #f67a04;
