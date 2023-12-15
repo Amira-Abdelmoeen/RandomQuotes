@@ -12,6 +12,10 @@
     height: 100vh;
     margin: 0 !important;
 }
+#quote{
+    height: 50px;
+    font-size: 22px;
+}
 .bottn{
    background-color: #f67a04;
    color: white;
@@ -23,7 +27,6 @@
     border-top-left-radius: 5px;
 }
 .qoutes-content{
-   /* background-color:rgba(0, 0, 255, 0.253); */
    background-color:#046daf6b;
    width: 50%;
 }
@@ -31,7 +34,6 @@
      width: 40px;
      height: 40px;
      border-radius: 50%;
-     /* background-color: #f67904ec; */
      background-color: #f67a04;
      line-height: 40px;
 }
